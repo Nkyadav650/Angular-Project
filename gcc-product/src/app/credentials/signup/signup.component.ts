@@ -30,7 +30,7 @@ export class SignupComponent {
     console.log("signup credential: " + this.user.username + '\n' + this.user.password + '\n' + this.user.mailId + '\n' + this.user.role)
     localStorage.setItem('user_details', JSON.stringify(this.user));
     this.snackBar.open('user signup success', 'Ok', { duration: 2000 });
-    this.router.navigate(['/login']);
+    this.router.navigate(['/']);
 
   }
   getUserDetails() {
