@@ -1,0 +1,23 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+.navbar{
+    background-color: #5A72A0;
+    justify-content: space-around;
+    
+}  
+.app-name{
+background-color:#5C88C4;
+width: 40%;
+color: rgba(32, 3, 163, 0.952);
+font-size: larger;
+font-family: sans-serif;
+text-align: center;
+padding-left: 200px;
+margin-left: 110px;
+}
+.navbar a{
+  text-decoration: none;
+  color: black;
+  font-size: medium;
+}

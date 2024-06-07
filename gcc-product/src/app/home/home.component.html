@@ -1,0 +1,12 @@
+<!-- <h1>Home Page</h1> -->
+<div class="product-container">
+    <div *ngFor="let product of products" class="product-box">
+      <div class="product-details">
+        <h4>{{ product.productName | uppercase }}</h4>
+        <p><strong>Price:</strong> {{ product.price | currency:"INR" }}</p>
+        <p><strong>Description:</strong> {{ product.description }}</p>
+        <p><strong>Category:</strong> {{ product.category }}</p>
+      </div>
+    </div>
+  </div>
+  

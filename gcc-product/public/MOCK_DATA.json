@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "productName": "cpu",
+        "price": 7336,
+        "description": "Underdosing of predominantly beta-adrenocpt agonists, subs",
+        "category": "electronics"
+    },
+    {
+        "id": 2,
+        "productName": "rice",
+        "price": 857,
+        "description": "Physeal fracture of metatarsal",
+        "category": "grocery"
+    },
+    {
+        "id": 3,
+        "productName": "cpu",
+        "price": 2801,
+        "description": "Injury of radial nerve at forearm level, right arm",
+        "category": "electronics"
+    },
+    {
+        "id": 4,
+        "productName": "shofa",
+        "price": 3467,
+        "description": "Torus fracture of upper end of left tibia, init for clos fx",
+        "category": "furniture"
+    },
+    {
+        "id": 5,
+        "productName": "shirt",
+        "price": 4426,
+        "description": "Puncture wound w/o foreign body of oral cavity, init encntr",
+        "category": "clothes"
+    },
+    {
+        "id": 6,
+        "productName": "chair",
+        "price": 6221,
+        "description": "Malignant neoplasm of ovrlp sites of female genital organs",
+        "category": "furniture"
+    },
+    {
+        "id": 7,
+        "productName": "sugar",
+        "price": 6527,
+        "description": "Nondisp intertroch fx r femr, 7thM",
+        "category": "grocery"
+    },
+    {
+        "id": 8,
+        "productName": "mouse",
+        "price": 2076,
+        "description": "Retinopathy of prematurity, stage 2, bilateral",
+        "category": "electronics"
+    },
+    {
+        "id": 9,
+        "productName": "laptop",
+        "price": 5017,
+        "description": "Disp fx of distal phalanx of unsp finger, init for opn fx",
+        "category": "electronics"
+    },
+    {
+        "id": 10,
+        "productName": "shirt",
+        "price": 920,
+        "description": "Unsp injury of musc/tend the rotator cuff of left shoulder",
+        "category": "clothes"
+    },
+    {
+        "id": 11,
+        "productName": "mouse",
+        "price": 3689,
+        "description": "Unspecified open wound, unspecified hip",
+        "category": "electronics"
+    },
+    {
+        "id": 12,
+        "productName": "chair",
+        "price": 2061,
+        "description": "Dermatochalasis of left upper eyelid",
+        "category": "furniture"
+    },
+    {
+        "id": 13,
+        "productName": "book",
+        "price": 4203,
+        "description": "Intraoperative cardiac arrest during other surgery",
+        "category": "books"
+    },
+    {
+        "id": 14,
+        "productName": "saree",
+        "price": 2828,
+        "description": "Subluxation and dislocation of unspecified lumbar vertebra",
+        "category": "clothes"
+    },
+    {
+        "id": 15,
+        "productName": "chair",
+        "price": 7363,
+        "description": "Inadequate sleep hygiene",
+        "category": "furniture"
+    },
+    {
+        "id": 16,
+        "productName": "mobile",
+        "price": 4489,
+        "description": "Varicos vn of l low extrem w ulc of calf and inflammation",
+        "category": "electronics"
+    },
+    {
+        "id": 17,
+        "productName": "keyboard",
+        "price": 3041,
+        "description": "Nondisp fx of med phalanx of r mid fngr, 7thP",
+        "category": "electronics"
+    },
+    {
+        "id": 18,
+        "productName": "salt",
+        "price": 8893,
+        "description": "Other neutropenia",
+        "category": "grocery"
+    },
+    {
+        "id": 19,
+        "productName": "fan",
+        "price": 4229,
+        "description": "Ice skating rink (indoor) (outdoor) as place",
+        "category": "electronics"
+    },
+    {
+        "id": 20,
+        "productName": "almond",
+        "price": 295,
+        "description": "Subluxation of T5/T6 thoracic vertebra, sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 21,
+        "productName": "chair",
+        "price": 1589,
+        "description": "Poisoning by oth drug/meds/biol subst, undetermined, init",
+        "category": "furniture"
+    },
+    {
+        "id": 22,
+        "productName": "laptop",
+        "price": 5386,
+        "description": "Sltr-haris Type I physl fx low end rad, r arm, 7thK",
+        "category": "electronics"
+    },
+    {
+        "id": 23,
+        "productName": "chair",
+        "price": 2575,
+        "description": "Partial traumatic amputation of one right lesser toe, init",
+        "category": "furniture"
+    },
+    {
+        "id": 24,
+        "productName": "shofa",
+        "price": 824,
+        "description": "Injury of nerves at wrs/hnd lv of left arm, sequela",
+        "category": "furniture"
+    },
+    {
+        "id": 25,
+        "productName": "laptop",
+        "price": 1201,
+        "description": "Effusion, unspecified joint",
+        "category": "electronics"
+    },
+    {
+        "id": 26,
+        "productName": "salt",
+        "price": 719,
+        "description": "Postproc hemor of a dgstv sys org fol a dgstv sys procedure",
+        "category": "grocery"
+    },
+    {
+        "id": 27,
+        "productName": "cpu",
+        "price": 8036,
+        "description": "Disorders of mineral metabolism",
+        "category": "electronics"
+    },
+    {
+        "id": 28,
+        "productName": "almond",
+        "price": 9022,
+        "description": "Contus/lac cereb, w loss of consciousness of 31-59 min",
+        "category": "grocery"
+    },
+    {
+        "id": 29,
+        "productName": "cpu",
+        "price": 5018,
+        "description": "Displ commnt fx shaft of humer, l arm, 7thP",
+        "category": "electronics"
+    },
+    {
+        "id": 30,
+        "productName": "mobile",
+        "price": 2961,
+        "description": "Unspecified physeal fracture of phalanx of unspecified toe",
+        "category": "electronics"
+    },
+    {
+        "id": 31,
+        "productName": "sugar",
+        "price": 6821,
+        "description": "Adverse effect of other laxatives, sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 32,
+        "productName": "mobile",
+        "price": 2583,
+        "description": "Oth physeal fracture of upper end of radius, right arm, init",
+        "category": "electronics"
+    },
+    {
+        "id": 33,
+        "productName": "pant",
+        "price": 388,
+        "description": "Burn of third degree of male genital region, init encntr",
+        "category": "clothes"
+    },
+    {
+        "id": 34,
+        "productName": "shirt",
+        "price": 9454,
+        "description": "Eccrine sweat disorder, unspecified",
+        "category": "clothes"
+    },
+    {
+        "id": 35,
+        "productName": "laptop",
+        "price": 5937,
+        "description": "Pathological fracture, unsp site, subs for fx w delay heal",
+        "category": "electronics"
+    },
+    {
+        "id": 36,
+        "productName": "pant",
+        "price": 5711,
+        "description": "Vomiting",
+        "category": "clothes"
+    },
+    {
+        "id": 37,
+        "productName": "rice",
+        "price": 5352,
+        "description": "Oth traum nondisp spondylolysis of sixth cervcal vert, 7thK",
+        "category": "grocery"
+    },
+    {
+        "id": 38,
+        "productName": "saree",
+        "price": 8382,
+        "description": "Path fx in oth disease, unsp ankle, subs for fx w malunion",
+        "category": "clothes"
+    },
+    {
+        "id": 39,
+        "productName": "sugar",
+        "price": 7642,
+        "description": "Inj unsp quadriceps muscle, fascia and tendon, init encntr",
+        "category": "grocery"
+    },
+    {
+        "id": 40,
+        "productName": "chair",
+        "price": 7734,
+        "description": "Unsp injury of muscle, fascia and tendon of lower back, init",
+        "category": "furniture"
+    },
+    {
+        "id": 41,
+        "productName": "almond",
+        "price": 2258,
+        "description": "Unspecified open wound of right elbow, sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 42,
+        "productName": "mobile",
+        "price": 5711,
+        "description": "Erosn implnt urethral bulking agent to surrnd org/tiss",
+        "category": "electronics"
+    },
+    {
+        "id": 43,
+        "productName": "sugar",
+        "price": 2765,
+        "description": "Other fracture of second thoracic vertebra, sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 44,
+        "productName": "mouse",
+        "price": 3858,
+        "description": "Nondisp commnt fx l patella, subs for clos fx w delay heal",
+        "category": "electronics"
+    },
+    {
+        "id": 45,
+        "productName": "almond",
+        "price": 3011,
+        "description": "Accidental bite by another person, sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 46,
+        "productName": "chair",
+        "price": 9788,
+        "description": "Junin hemorrhagic fever",
+        "category": "furniture"
+    },
+    {
+        "id": 47,
+        "productName": "fan",
+        "price": 4307,
+        "description": "Rider of nonpowr wtrcrft struck by powered wtrcrft, sequela",
+        "category": "electronics"
+    },
+    {
+        "id": 48,
+        "productName": "chair",
+        "price": 3795,
+        "description": "Inj flexor musc/fasc/tend right ring finger at wrs/hnd lv",
+        "category": "furniture"
+    },
+    {
+        "id": 49,
+        "productName": "laptop",
+        "price": 6672,
+        "description": "Oth fx unsp low leg, subs for opn fx type 3A/B/C w nonunion",
+        "category": "electronics"
+    },
+    {
+        "id": 50,
+        "productName": "shoes",
+        "price": 5444,
+        "description": "Occup of bus injured in collision w pedl cyc in traf, subs",
+        "category": "shoes"
+    },
+    {
+        "id": 51,
+        "productName": "salt",
+        "price": 8627,
+        "description": "Fracture of unsp tarsal bone(s) of right foot, sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 52,
+        "productName": "keyboard",
+        "price": 9964,
+        "description": "Bucket-hndl tear of medial meniscus, current injury, r knee",
+        "category": "electronics"
+    },
+    {
+        "id": 53,
+        "productName": "cpu",
+        "price": 4325,
+        "description": "Panniculitis aff regions of neck/bk, occipt-atlan-ax region",
+        "category": "electronics"
+    },
+    {
+        "id": 54,
+        "productName": "salt",
+        "price": 2277,
+        "description": "Unsp fx the lower end r radius, subs for clos fx w malunion",
+        "category": "grocery"
+    },
+    {
+        "id": 55,
+        "productName": "saree",
+        "price": 5103,
+        "description": "Poisoning by unsp hormone antagonists, intentional self-harm",
+        "category": "clothes"
+    },
+    {
+        "id": 56,
+        "productName": "mouse",
+        "price": 4509,
+        "description": "Oth fracture of shaft of left tibia, init for clos fx",
+        "category": "electronics"
+    },
+    {
+        "id": 57,
+        "productName": "shirt",
+        "price": 1714,
+        "description": "Sprain of unsp parts of right shoulder girdle, init encntr",
+        "category": "clothes"
+    },
+    {
+        "id": 58,
+        "productName": "almond",
+        "price": 3081,
+        "description": "Burn of first degree of lip(s), sequela",
+        "category": "grocery"
+    },
+    {
+        "id": 59,
+        "productName": "cpu",
+        "price": 5244,
+        "description": "Partial retinal artery occlusion, left eye",
+        "category": "electronics"
+    },
+    {
+        "id": 60,
+        "productName": "chair",
+        "price": 8950,
+        "description": "Oth soft tissue disorders related to use/pressure, r hand",
+        "category": "furniture"
+    },
+    {
+        "id": 61,
+        "productName": "saree",
+        "price": 9264,
+        "description": "Disp fx of glenoid cavity of scapula, left shoulder, sequela",
+        "category": "clothes"
+    },
+    {
+        "id": 62,
+        "productName": "laptop",
+        "price": 1789,
+        "description": "Nondisp fx of base of oth metacarpal bone, init for clos fx",
+        "category": "electronics"
+    },
+    {
+        "id": 63,
+        "productName": "mouse",
+        "price": 5628,
+        "description": "Other superficial bite of unspecified forearm, subs encntr",
+        "category": "electronics"
+    },
+    {
+        "id": 64,
+        "productName": "sparks shoes",
+        "price": 8490,
+        "description": "Stress fracture, left femur, initial encounter for fracture",
+        "category": "shoes"
+    },
+    {
+        "id": 65,
+        "productName": "t-shirt",
+        "price": 150,
+        "description": "Inhaled anesthetics",
+        "category": "clothes"
+    },
+    {
+        "id": 66,
+        "productName": "shoes",
+        "price": 5157,
+        "description": "Emphysema (subcutaneous) resulting from a procedure, init",
+        "category": "shoes"
+    },
+    {
+        "id": 67,
+        "productName": "bed",
+        "price": 6190,
+        "description": "Displ seg fx shaft of ulna, unsp arm, 7thB",
+        "category": "furniture"
+    },
+    {
+        "id": 68,
+        "productName": "laptop",
+        "price": 4023,
+        "description": "Unsp opn wnd abd wall, right upper q w/o penet perit cav",
+        "category": "electronics"
+    },
+    {
+        "id": 69,
+        "productName": "pant",
+        "price": 4621,
+        "description": "Trigger finger, left middle finger",
+        "category": "clothes"
+    },
+    {
+        "id": 70,
+        "productName": "constitution of india",
+        "price": 7809,
+        "description": "Laceration of splenic vein, subsequent encounter",
+        "category": "books"
+    },
+    {
+        "id": 71,
+        "productName": "cpu",
+        "price": 9687,
+        "description": "Monoarthritis, not elsewhere classified, unspecified knee",
+        "category": "electronics"
+    },
+    {
+        "id": 72,
+        "productName": "gucci shirt",
+        "price": 7422,
+        "description": "Drug-induced chronic gout, vertebrae, with tophus (tophi)",
+        "category": "clothes"
+    },
+    {
+        "id": 73,
+        "productName": "smart watch",
+        "price": 1292,
+        "description": "Unspecified fall, sequela",
+        "category": "electronics"
+    },
+    {
+        "id": 74,
+        "productName": "mobile",
+        "price": 7702,
+        "description": "Disp fx of prox phalanx of r mid fngr, 7thG",
+        "category": "electronics"
+    },
+    {
+        "id": 75,
+        "productName": "shofa",
+        "price": 8578,
+        "description": "Cerebral infrc due to thombos of bilateral anterior arteries",
+        "category": "furniture"
+    },
+    {
+        "id": 76,
+        "productName": "rice",
+        "price": 8666,
+        "description": "Complications of reattached (part of) lower extremity",
+        "category": "grocery"
+    },
+    {
+        "id": 77,
+        "productName": "shoes",
+        "price": 7292,
+        "description": "Mtrcy driver injured in collision w oth and unsp mv nontraf",
+        "category": "shoes"
+    },
+    {
+        "id": 78,
+        "productName": "books",
+        "price": 6056,
+        "description": "Open bite of abdominal wall w penetration into perit cav",
+        "category": "electronics"
+    },
+    {
+        "id": 79,
+        "productName": "mouse",
+        "price": 8164,
+        "description": "Burn of third degree of chest wall, subsequent encounter",
+        "category": "electronics"
+    },
+    {
+        "id": 80,
+        "productName": "mobile",
+        "price": 9319,
+        "description": "Other disorders of conjunctiva",
+        "category": "electronics"
+    }
+]

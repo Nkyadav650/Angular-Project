@@ -1,0 +1,29 @@
+/* .sidebar{
+    background-color: azure;
+
+}
+.sidebar a{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    font-size: larger;
+    margin: 20px 0px;
+ 
+} */
+.toolbar-item-spacer {
+    flex: 1 1 auto;
+}
+
+.app-container {
+    height: 100vh;
+    margin: 0;
+}  
+.app-sidenav {
+    width: 230px;
+}
+.app-sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+} 

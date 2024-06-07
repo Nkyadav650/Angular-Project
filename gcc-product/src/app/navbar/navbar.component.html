@@ -1,0 +1,41 @@
+<div>
+    <mat-toolbar class="navbar" color="primary" >
+        <!-- <button mat-icon-button >
+            <mat-icon>menu</mat-icon>
+          </button> -->
+          <a routerLink="/home"><img  src="" href="favicon.ico " width="50px" height="50px"/></a>
+          <a mat-button (click)="categoryFunc('')" routerLink="/home">Home</a>
+         <mat-toolbar class="app-name">
+            <span><b>GCC Products</b></span>
+          </mat-toolbar>
+          
+       
+      
+        
+          <mat-icon>cart</mat-icon>
+        <a mat-button routerLink="/cart">Cart</a>
+        <a mat-button routerLink="/login">Login</a>
+
+        <button mat-icon-button matTooltip="My Account" [matMenuTriggerFor]="userAccountMenu">
+          <mat-icon>account_circle</mat-icon>
+      </button>
+      <mat-menu #userAccountMenu [overlapTrigger]="false" yPosition="below">
+          <button mat-menu-item routerLink="/profile">
+              <mat-icon>person</mat-icon><span>My Account</span>
+          </button>
+          <button mat-menu-item routerLink="#">
+              <mat-icon>settings</mat-icon><span>Settings</span>
+          </button>
+          <button mat-menu-item routerLink="#">
+              <mat-icon>help</mat-icon><span>Help</span>
+          </button>
+          <mat-divider></mat-divider>
+          <button mat-menu-item routerLink="/login">
+              <mat-icon>exit_to_app</mat-icon>Logout
+          </button>
+      </mat-menu>
+       <!-- <a mat-button routerLink="/profile"> <mat-icon>person</mat-icon>Profile</a> -->
+        
+
+    </mat-toolbar>
+</div>
