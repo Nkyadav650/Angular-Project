@@ -1,0 +1,16 @@
+<p>table works!</p>
+<table>
+    <thead>
+      <tr>
+        <th>Sr</th>
+        <th *ngFor="let column of displayedColumns">{{ column |uppercase}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let row of data; let sr=index">
+        <td>{{sr+1}}</td>
+        <td *ngFor="let column of displayedColumns">{{ row[column] }}</td>
+      </tr>
+    </tbody>
+  </table>
+  

@@ -24,7 +24,7 @@ import { MatSnackBar } from '@angular/material/snack-bar';
     SidebarComponent,
     LoginComponent,
    
-    CommonModule
+   
   ],
   providers:[LoginComponent],
   templateUrl: './app.component.html',

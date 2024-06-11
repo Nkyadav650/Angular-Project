@@ -42,6 +42,7 @@ import { trigger, state, style, transition, animate } from '@angular/animations'
   styleUrl: './sidebar.component.css'
 })
 export class SidebarComponent {
+  showFiller = false;
   constructor(private searchService: SearchService) { }
 
   categoryFunc(category: string): void {
@@ -49,4 +50,3 @@ export class SidebarComponent {
   }
    
 }
-

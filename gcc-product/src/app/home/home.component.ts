@@ -1,6 +1,5 @@
 
 import { Component, OnInit } from '@angular/core';
-import { ChartsComponent } from '../chart/chart.component';
 import { ProductService } from '../services/product.service';
 import { product } from '../services/product';
 import { HttpClientModule } from '@angular/common/http';
@@ -10,7 +9,7 @@ import { SearchService } from '../services/search.service';
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [ChartsComponent, HttpClientModule, CommonModule, SidebarComponent],
+  imports: [ HttpClientModule, CommonModule, SidebarComponent],
   providers: [ProductService],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'

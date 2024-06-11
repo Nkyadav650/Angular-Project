@@ -1,0 +1,16 @@
+table {
+    width: 60%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #6d6363;
+  }
+  
+  th {
+    background-color: #434040;
+  }
+  
