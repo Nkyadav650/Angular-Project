@@ -1,4 +1,5 @@
 import { CommonModule } from '@angular/common';
+import { HttpClient } from '@angular/common/http';
 import { Component, Input, SimpleChanges } from '@angular/core';
 
 interface Column {
@@ -14,17 +15,23 @@ interface Column {
   styleUrl: './table.component.css'
 })
 export class TableComponent {
-  
-  @Input() data: any[] = [];
+
+   data: any[] = [];
   displayedColumns: string[] = [];
 
-  ngOnChanges(): void {
-    
-      if(this.data.length>0){
-        this.displayedColumns=Object.keys(this.data[0])
+  constructor(private http: HttpClient) { }
+
+  ngOnInit() {
+    this.fetchData();
+  }
+
+  fetchData() {
+    this.http.get<any[]>('MOCK_DATA.json').subscribe(response => {
+      this.data = response;
+      if (this.data.length > 0) {
+        this.displayedColumns = Object.keys(this.data[0]);
       }
-      console.log("data value columns : ",this.displayedColumns)
-      
-    }
+    });
+  }
 
 }

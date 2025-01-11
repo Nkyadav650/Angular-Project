@@ -14,9 +14,4 @@ export class CartComponent {
     { name: 'Jane', age: 30, city: 'San Francisco' },
     { name: 'Mike', age: 35, city: 'Chicago' }
   ];
-  tableColumns = [
-    { key: 'name', title: 'Name' },
-    { key: 'age', title: 'Age' },
-    { key: 'city', title: 'City' }
-  ];
-}
+  }
